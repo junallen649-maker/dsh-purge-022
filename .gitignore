@@ -1,0 +1,14 @@
+# user data / backups
+*.bak-*
+*.log
+dsh-migrate/
+
+# os
+.DS_Store
+Thumbs.db
+
+# never commit local secrets or engagement data
+.credentials.yaml
+redteam/
+engagements/
+knowledge.db
