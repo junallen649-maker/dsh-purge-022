@@ -1,6 +1,13 @@
 # dsh-purge-022
 
-DeepSeek Harness **0.2.2.x 适配版** —— 让 dsh-purge 在 0.2.2 上继续可用。
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
+[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-0.2.2.x%20%7C%200.2.1-green.svg)](docs/SUPPORT.md)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#一键安装)
+[![GitHub Stars](https://img.shields.io/github/stars/junallen649-maker/dsh-purge-022?style=social)](https://github.com/junallen649-maker/dsh-purge-022)
+
+**简体中文** | [English](README.md)
+
+DeepSeek Harness **0.2.2.x 适配版** —— 让 `dsh-purge` 在 0.2.2（含 `0.2.2-rc.5`）上继续可用，支持一键安装与红队预设修复。
 
 > 这不是原项目。原项目 **dsh-purge**（作者 **YuJunZhiXue**）已停止更新并从 GitHub 删除。
 > 本仓库基于镜像 `mmparko/dsh-purge`（1.1.90），补上 0.2.2 的锚点适配与一键安装。

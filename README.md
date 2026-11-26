@@ -1,5 +1,12 @@
 # dsh-purge-022
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
+[![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-0.2.2.x%20%7C%200.2.1-green.svg)](docs/SUPPORT.md)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#install)
+[![GitHub Stars](https://img.shields.io/github/stars/junallen649-maker/dsh-purge-022?style=social)](https://github.com/junallen649-maker/dsh-purge-022)
+
+**English** | [简体中文](README.zh-CN.md)
+
 A **DeepSeek Harness 0.2.2.x compatibility build** for the `dsh-purge` patch set.
 
 > Not the original project. `dsh-purge` by **YuJunZhiXue** stopped updating and
